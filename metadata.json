@@ -1,0 +1,6 @@
+{
+  "name": "Solace Sanctum",
+  "description": "A secure client-side end-to-end encrypted journal that uses Gemini AI to analyze emotional tone and provide guided breathing exercises, coping practices, and affirmations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
